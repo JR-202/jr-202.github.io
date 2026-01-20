@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Your Name | Data Analyst</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      max-width: 800px;
+      margin: 4rem auto;
+      padding: 0 1rem;
+      line-height: 1.6;
+    }
+    h1 { font-size: 2.2rem; }
+    h2 { margin-top: 2rem; }
+    a { color: #0366d6; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+<h1>Jarrod Ramsey</h1>
+<p><strong>Data Analyst</strong> · R · SQL · Tableau</p>
+
+<p>
+I build end-to-end analytics projects using public datasets, 
+focusing on clean data pipelines and actionable insights.
+</p>
+
+<h2>Projects</h2>
+<ul>
+  <li>
+    <strong>Kaggle Project Name</strong><br/>
+    <a href="https://github.com/yourusername/project-repo">GitHub</a>
+    · <a href="#">Report</a>
+  </li>
+</ul>
+
+<h2>Contact</h2>
+<p>
+<a href="https://github.com/yourusername">GitHub</a> ·
+<a href="https://www.linkedin.com/in/yourname/">LinkedIn</a>
+</p>
+
+</body>
+</html>
